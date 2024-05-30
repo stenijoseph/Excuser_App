@@ -3,7 +3,7 @@ import { useState } from "react";
 
 
 function App() {
-const[excuse,setexcuse]=useState("")
+const[excuse,setexcuse]=useState("When someone asked me about my blood group, I told him that I'm a code blooded person.")
 
 const fetchData=async(excuse)=>{
   const{data}=await axios.get(`https://excuser-three.vercel.app/v1/excuse/${excuse}/`)
