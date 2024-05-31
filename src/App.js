@@ -19,7 +19,7 @@ const fetchData=async(excuse)=>{
       <button  className="bg-pink-600 text-white font-semibold  px-4 py-3 rounded-lg" onClick={()=>{fetchData("family")}}>Family</button>
       <button  className="bg-blue-600 text-white font-semibold  px-4 py-3 rounded-lg" onClick={()=>{fetchData("developers")}}>Developer</button>
     </div>
-    <h1 className="text-black font-bold text-xl mt-10">{excuse}</h1>
+    <h1 className="text-black font-bold text-xl mt-10 px-3">{excuse}</h1>
     </div>
   );
 }
