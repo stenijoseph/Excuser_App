@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Excuser_App/static/css/main.6f27f4d0.css",
-    "main.js": "/Excuser_App/static/js/main.34666e4e.js",
+    "main.css": "/Excuser_App/static/css/main.f56867f2.css",
+    "main.js": "/Excuser_App/static/js/main.61e5757e.js",
     "index.html": "/Excuser_App/index.html",
-    "main.6f27f4d0.css.map": "/Excuser_App/static/css/main.6f27f4d0.css.map",
-    "main.34666e4e.js.map": "/Excuser_App/static/js/main.34666e4e.js.map"
+    "main.f56867f2.css.map": "/Excuser_App/static/css/main.f56867f2.css.map",
+    "main.61e5757e.js.map": "/Excuser_App/static/js/main.61e5757e.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f27f4d0.css",
-    "static/js/main.34666e4e.js"
+    "static/css/main.f56867f2.css",
+    "static/js/main.61e5757e.js"
   ]
 }
