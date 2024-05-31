@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Execuse_App/static/css/main.6f27f4d0.css",
-    "main.js": "/Execuse_App/static/js/main.34666e4e.js",
-    "index.html": "/Execuse_App/index.html",
-    "main.6f27f4d0.css.map": "/Execuse_App/static/css/main.6f27f4d0.css.map",
-    "main.34666e4e.js.map": "/Execuse_App/static/js/main.34666e4e.js.map"
+    "main.css": "/Excuser_App/static/css/main.6f27f4d0.css",
+    "main.js": "/Excuser_App/static/js/main.34666e4e.js",
+    "index.html": "/Excuser_App/index.html",
+    "main.6f27f4d0.css.map": "/Excuser_App/static/css/main.6f27f4d0.css.map",
+    "main.34666e4e.js.map": "/Excuser_App/static/js/main.34666e4e.js.map"
   },
   "entrypoints": [
     "static/css/main.6f27f4d0.css",
